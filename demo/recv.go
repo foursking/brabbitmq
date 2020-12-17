@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	rabbitmq "github.com/foursking/brabbitmq/utils/brabbitmq"
+	rabbitmq "github.com/foursking/brabbitmq"
 	"time"
 )
 
